@@ -1,1 +1,1 @@
-this is my Linux config
+this is my Linux configuration
